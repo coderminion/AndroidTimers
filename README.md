@@ -5,6 +5,6 @@ https://www.youtube.com/watch?v=nI-B0lQYUTU&feature=youtu.be
 
 Screenshots 
 
-<img src ="/sample1"/> 
+<img src ="/sample1.png"/> 
 
-<img src ="/sample2"/>
+<img src ="/sample2.png"/>
